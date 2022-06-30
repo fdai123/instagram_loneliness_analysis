@@ -1,4 +1,4 @@
-# instagram_loneliness_analysis
+# Analysis of association between mental stress and social media (instagram) 
 
 Repository for social media posts and mental stress analysis project. Files: 
 
